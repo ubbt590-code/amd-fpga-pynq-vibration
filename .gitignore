@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+raw/
+rebuilt_training/
+*.bit
+*.hwh
+*.xpr
+*.rar
+*.mp4
+dataset*.npz
+demo_set.npz
+training/group_features.npz
+hardware/ip/

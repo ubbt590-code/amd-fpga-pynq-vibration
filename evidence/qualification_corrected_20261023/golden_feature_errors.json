@@ -1,0 +1,270 @@
+[
+  {
+    "index": 0,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.01165794103991423,
+    "centroid_error_hz": 7.334928886296211,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.6694397520520283e-07
+  },
+  {
+    "index": 73,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.030912526948636602,
+    "centroid_error_hz": 6.693951761642438,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.376045965592823e-07
+  },
+  {
+    "index": 146,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.01673213664183583,
+    "centroid_error_hz": 7.827349000810045,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.157513222580178e-07
+  },
+  {
+    "index": 220,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.01603036919357287,
+    "centroid_error_hz": 3.6221761909810084,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.912943808970226e-07
+  },
+  {
+    "index": 293,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.004320269506706007,
+    "centroid_error_hz": 4.918884184555736,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.4565862111767274e-10
+  },
+  {
+    "index": 367,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0018892911691801078,
+    "centroid_error_hz": 1.0768926583000393,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 5.536735514510838e-10
+  },
+  {
+    "index": 440,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0028229728370715423,
+    "centroid_error_hz": 3.8856880326229657,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.951416971403887e-10
+  },
+  {
+    "index": 514,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0027206711318390414,
+    "centroid_error_hz": 0.3166990488434749,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.444336454412223e-09
+  },
+  {
+    "index": 587,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.004058504426157621,
+    "centroid_error_hz": 3.705750687992804,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.6315199736236536e-09
+  },
+  {
+    "index": 661,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0020534918584071953,
+    "centroid_error_hz": 1.6674524366871992,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 2.6378437212315475e-09
+  },
+  {
+    "index": 734,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.004917719583403975,
+    "centroid_error_hz": 5.5100982930694045,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 7.715768468585793e-09
+  },
+  {
+    "index": 808,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.004587518785774826,
+    "centroid_error_hz": 0.7853085267388451,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 9.489585117705701e-09
+  },
+  {
+    "index": 881,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.008057445956791219,
+    "centroid_error_hz": 7.414370450847855,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 5.261029834002784e-09
+  },
+  {
+    "index": 955,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.008930493115781776,
+    "centroid_error_hz": 5.119786310493964,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 1.7828351239757012e-08
+  },
+  {
+    "index": 1028,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0038787098847874735,
+    "centroid_error_hz": 4.137607813240265,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 2.4216181948588655e-08
+  },
+  {
+    "index": 1102,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.005272678137401955,
+    "centroid_error_hz": 2.488791543770276,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 6.886515357962253e-09
+  },
+  {
+    "index": 1175,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.014627888603281512,
+    "centroid_error_hz": 6.458959514819753,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 1.1773677677240357e-07
+  },
+  {
+    "index": 1249,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00038349545176935085,
+    "centroid_error_hz": 0.25111404836843576,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.142552884582983e-11
+  },
+  {
+    "index": 1322,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0006693760345613221,
+    "centroid_error_hz": 0.8877132737661668,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.565681166468494e-11
+  },
+  {
+    "index": 1396,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00035550496773995304,
+    "centroid_error_hz": 0.10489937208831179,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.211209076425803e-11
+  },
+  {
+    "index": 1469,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.004633120006011078,
+    "centroid_error_hz": 4.81260035549667,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 5.765769994781067e-08
+  },
+  {
+    "index": 1543,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.01202787345287959,
+    "centroid_error_hz": 3.9907058456806226,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 5.908708322621692e-08
+  },
+  {
+    "index": 1616,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.015149836513883921,
+    "centroid_error_hz": 18.862667441579106,
+    "peak_error_hz": 2871.09375,
+    "kurtosis_error": 8.133840889712474e-08,
+    "pl_top_bins": [
+      293,
+      301,
+      291,
+      306,
+      61
+    ],
+    "pl_top_power": [
+      2281,
+      3170,
+      3170,
+      3373,
+      3492
+    ],
+    "ps_top_bins": [
+      293,
+      301,
+      291,
+      61,
+      306
+    ],
+    "ps_top_power": [
+      9.00566231938041,
+      12.31362705251076,
+      12.642335567978522,
+      12.68356296697255,
+      12.912766386651255
+    ]
+  },
+  {
+    "index": 1690,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00033501249258590694,
+    "centroid_error_hz": 0.10377951726084689,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 2.613709249033036e-11
+  },
+  {
+    "index": 1763,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00020965854173489364,
+    "centroid_error_hz": 0.3754784778825524,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 7.119904665842114e-11
+  },
+  {
+    "index": 1837,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00018891564648929136,
+    "centroid_error_hz": 0.17042600942261288,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 3.0102587089686494e-12
+  },
+  {
+    "index": 1910,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0002493641527052167,
+    "centroid_error_hz": 0.2273651275362738,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 1.4761303290811156e-11
+  },
+  {
+    "index": 1984,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.0004845561616118152,
+    "centroid_error_hz": 0.4372673360862791,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 1.8531398637833263e-11
+  },
+  {
+    "index": 2057,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00018146491927963733,
+    "centroid_error_hz": 0.04996177266362167,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 4.624300942168702e-12
+  },
+  {
+    "index": 2131,
+    "rms2_error": 0.0,
+    "band_l1_error": 0.00020131892972999376,
+    "centroid_error_hz": 0.20618497720283813,
+    "peak_error_hz": 0.0,
+    "kurtosis_error": 2.4713564528155985e-12
+  }
+]

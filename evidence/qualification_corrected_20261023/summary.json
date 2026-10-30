@@ -1,0 +1,233 @@
+{
+  "started_host_label": "2026-10-23",
+  "board_boot_id": "1df46728-810b-460b-9af1-cc02b603f00a",
+  "bitstream_sha256": "2f15e69145e198fcea4b6484b7ea23590010e93b09d1d09fc58f907fc6e2c8db",
+  "model_sha256": "cad5745a9385329ed42e59655e469ac02629ea2b0db6a108db11e5c659c38a06",
+  "dataset_sha256": "cfda75cd3f00806c94b6d0e26465c239e98ca214870cdd92758e5011e563656e",
+  "video": {
+    "bits_per_pixel": 32,
+    "pixel_unpack_mode": 1,
+    "color_registers": [
+      256,
+      0,
+      0,
+      0,
+      256,
+      0,
+      0,
+      0,
+      256,
+      0,
+      0,
+      0
+    ]
+  },
+  "test_scope": "Stored-file replay, no ADC, not an early-degradation validation",
+  "accuracy": {
+    "confusion": [
+      [
+        29,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        57,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        58,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        59
+      ]
+    ],
+    "software_confusion": [
+      [
+        29,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        57,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        58,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        59
+      ]
+    ],
+    "rejected": 0,
+    "software_rejected": 0,
+    "coverage": 1.0,
+    "file_bound_grouping": true,
+    "correct": 261,
+    "groups": 262,
+    "accuracy": 0.9961832061068703,
+    "software_accuracy": 0.9961832061068703,
+    "pl_ps_match": 262,
+    "group_size": 8,
+    "elapsed_s": 90.05134352999994,
+    "evaluated_frames": 2096,
+    "dropped_frames": 36
+  },
+  "robustness": {
+    "clean": {
+      "groups": 25,
+      "correct": 24,
+      "rejected": 0,
+      "accuracy_with_rejections_as_errors": 0.96
+    },
+    "gain2": {
+      "groups": 25,
+      "correct": 21,
+      "rejected": 3,
+      "accuracy_with_rejections_as_errors": 0.84
+    },
+    "snr0": {
+      "groups": 25,
+      "correct": 24,
+      "rejected": 0,
+      "accuracy_with_rejections_as_errors": 0.96
+    },
+    "snr10": {
+      "groups": 25,
+      "correct": 24,
+      "rejected": 0,
+      "accuracy_with_rejections_as_errors": 0.96
+    },
+    "snr20": {
+      "groups": 25,
+      "correct": 24,
+      "rejected": 0,
+      "accuracy_with_rejections_as_errors": 0.96
+    }
+  },
+  "quality_guards_passed": 5,
+  "benchmark": {
+    "frame_features": {
+      "pl": {
+        "count": 120,
+        "p50_ms": 1.1540969999259687,
+        "p95_ms": 2.394846949755446,
+        "p99_ms": 4.742477999752738,
+        "max_ms": 5.631705999803671,
+        "min_ms": 1.1244950001128018,
+        "mean_ms": 1.433848433309019
+      },
+      "ps": {
+        "count": 120,
+        "p50_ms": 2.9998029999660503,
+        "p95_ms": 3.0695656498664903,
+        "p99_ms": 3.190888219878616,
+        "max_ms": 3.232984000533179,
+        "min_ms": 2.92649800030631,
+        "mean_ms": 3.0094865583275046
+      },
+      "speedup_p50": 2.5992641867698096
+    },
+    "group_diagnosis": {
+      "pl": {
+        "count": 30,
+        "p50_ms": 128.66350550029892,
+        "p95_ms": 129.30820915025834,
+        "p99_ms": 129.61240854006974,
+        "max_ms": 129.68356700002914,
+        "min_ms": 128.10740599979908,
+        "mean_ms": 128.72424923337653
+      },
+      "ps": {
+        "count": 30,
+        "p50_ms": 172.94173500022225,
+        "p95_ms": 188.89315389969852,
+        "p99_ms": 190.52359960051945,
+        "max_ms": 191.05631800084666,
+        "min_ms": 172.18792099993152,
+        "mean_ms": 174.50374009989295
+      },
+      "speedup_p50": 1.3441397724067177
+    }
+  },
+  "golden_max_errors": {
+    "rms2_error": 0.0,
+    "band_l1_error": 0.030912526948636602,
+    "centroid_error_hz": 18.862667441579106,
+    "peak_error_hz": 2871.09375,
+    "kurtosis_error": 4.376045965592823e-07
+  },
+  "fir_suppression_db": 42.90945774515728,
+  "stress": {
+    "requested_duration_s": 600.0,
+    "observed_duration_s": 600.0188184440003,
+    "period_ms": 341.3333333333333,
+    "groups": 1758,
+    "software_skipped_groups": 0,
+    "deadline_misses": 0,
+    "max_queue_backlog_groups": 0,
+    "correct": 1751,
+    "response": {
+      "count": 1758,
+      "p50_ms": 129.4485439998425,
+      "p95_ms": 136.97445883367436,
+      "p99_ms": 162.12119185026506,
+      "max_ms": 313.71629266595846,
+      "min_ms": 127.7154713334312,
+      "mean_ms": 130.76015211261378
+    },
+    "compute": {
+      "count": 1758,
+      "p50_ms": 129.16173650000928,
+      "p95_ms": 136.65421685027468,
+      "p99_ms": 160.27994363007576,
+      "max_ms": 181.64871399949334,
+      "min_ms": 127.42776100003539,
+      "mean_ms": 130.36793147722838
+    },
+    "scope": "Single-worker paced DDR file replay, includes scheduled start lateness; no physical ADC producer",
+    "completed": true,
+    "simulated_first_group_collection_ms": 384.0
+  },
+  "hardware_frames_completed": 52281,
+  "passed": true
+}

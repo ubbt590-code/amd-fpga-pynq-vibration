@@ -1,0 +1,58 @@
+[
+  {
+    "condition": "all_zero",
+    "accepted": false,
+    "prediction": null,
+    "reasons": [
+      "ch0:no_or_very_low_ac_signal",
+      "ch1:no_or_very_low_ac_signal",
+      "ch2:no_or_very_low_ac_signal"
+    ],
+    "hardware_frames_used": 0
+  },
+  {
+    "condition": "flat_dc",
+    "accepted": false,
+    "prediction": null,
+    "reasons": [
+      "ch0:no_or_very_low_ac_signal",
+      "ch1:no_or_very_low_ac_signal",
+      "ch2:no_or_very_low_ac_signal"
+    ],
+    "hardware_frames_used": 0
+  },
+  {
+    "condition": "rail_clip",
+    "accepted": false,
+    "prediction": null,
+    "reasons": [
+      "ch0:no_or_very_low_ac_signal",
+      "ch0:excessive_clipping",
+      "ch1:no_or_very_low_ac_signal",
+      "ch1:excessive_clipping",
+      "ch2:no_or_very_low_ac_signal",
+      "ch2:excessive_clipping"
+    ],
+    "hardware_frames_used": 0
+  },
+  {
+    "condition": "one_channel_dropout",
+    "accepted": false,
+    "prediction": null,
+    "reasons": [
+      "ch1:no_or_very_low_ac_signal"
+    ],
+    "hardware_frames_used": 0
+  },
+  {
+    "condition": "very_low_amplitude",
+    "accepted": false,
+    "prediction": null,
+    "reasons": [
+      "ch0:no_or_very_low_ac_signal",
+      "ch1:no_or_very_low_ac_signal",
+      "ch2:no_or_very_low_ac_signal"
+    ],
+    "hardware_frames_used": 0
+  }
+]

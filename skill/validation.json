@@ -1,0 +1,16 @@
+{
+  "tested_on": "2026-10-23",
+  "tests": {
+    "exact_array": true,
+    "within_tolerance": true,
+    "outside_tolerance": true,
+    "shape_mismatch": true,
+    "nonfinite": true,
+    "empty": true,
+    "large_integer": true,
+    "complex": true
+  },
+  "passed": true,
+  "fpga_validation": false,
+  "cross_board_validation": false
+}

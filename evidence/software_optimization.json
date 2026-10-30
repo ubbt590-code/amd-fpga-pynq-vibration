@@ -1,0 +1,1691 @@
+{
+  "task": "NumPy SVM inference on identical 39-dimensional features, current ARM board",
+  "scope": "Classifier only, not full FIR/FFT/envelope latency",
+  "predictions_unchanged": true,
+  "samples_per_version": 120,
+  "before_p50_ms": 8.324558499680279,
+  "after_p50_ms": 5.808729999898787,
+  "samples": [
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 9.085758000765054,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.423631999903591,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.356573000128265,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.355756000128167,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.334424999702605,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.278811999844038,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.337000000210537,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.342230999915046,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.313192999594321,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.30922999921313,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.310451000397734,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.268321999821637,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.311982000122953,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.325889999468927,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.329104999575065,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.317359000102442,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.305590999952983,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.277967000140052,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.321494000483654,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.334224000464019,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.314295999298338,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.315357999890693,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.315600999594608,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.256387000074028,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.33084899932146,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.31874399955268,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.335835999787378,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.331369999723393,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.339046999935817,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.270694000202639,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.317230999637104,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.314368999890576,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.315557999594603,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.319894000123895,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.32576999982848,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.257731000412605,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.319690999996965,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.311444999890227,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.311923000292154,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "before",
+      "elapsed_ms": 8.315824999954202,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.9180160005780635,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.848130999765999,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.833973000335391,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.773746000159008,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.828880999615649,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.758165999395715,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.836477000229934,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.759499000305368,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.801148000500689,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.800128000373661,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.749726999965787,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.817677000777621,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.76249400000961,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.803117000141356,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.807762999211263,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.75902499986114,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.824951999784389,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.752400999881502,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.807485999866913,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.764004999946337,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.79922799988708,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.814995000037015,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.754050000177813,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.802342000606586,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.765916999735055,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.806751999443804,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.81142099963472,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.760890000601648,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.82596399999602,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.756888000178151,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.806999000014912,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.766223999671638,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.8034280000356375,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.815117000565806,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.762130999755755,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.811582000205817,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.764933000136807,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.803154000204813,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.802573999972083,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 0,
+      "version": "after",
+      "elapsed_ms": 5.762767999840435,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.843850000019302,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.77182899996842,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.82531999953062,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.7619040007921285,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.817931999445136,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.803252000077919,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.760809000094014,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.803140999887546,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.765431999861903,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.798228999992716,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.8187089998682495,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.758938000326452,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.824626000503486,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.763928999840573,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.823077000059129,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.757540000558947,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.8018540003104135,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.803501000627875,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.7568350002839,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.872632000318845,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.77270200028579,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.80816000001505,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.813990000206104,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.754260999310645,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.805808999866713,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.7630889996289625,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.8043139997607796,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.754607999733707,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.803586999718391,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.815262999931292,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.769252999925811,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.818824999550998,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.753888000072038,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.883582999558712,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.865604000064195,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.789840999568696,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.832838999594969,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.766637000306218,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.828117000419297,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "after",
+      "elapsed_ms": 5.764014999840583,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.418639999945299,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.360543999515357,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.32776199968066,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.335439999427763,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.33693700042204,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.322276000399143,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.276993999970728,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.310336000249663,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.3224820000396,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.320939999975963,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.341337999809184,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.308585999657225,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.28822199946444,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.316231000208063,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.590710999669682,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.32895199982886,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.324704999722599,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.315135999509948,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.267625999906159,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.322730000145384,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.32970600004046,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.317943999827548,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.326832999955514,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.312152000144124,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.283054000457923,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.32610100042075,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.348561999810045,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.311638000122912,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.325161999891861,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.317481000631233,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.27103299980081,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.334471999660309,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.324573999743734,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.324976000039896,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.331390999956056,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.306248999360832,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.277894000457309,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.330624000336684,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.327023999299854,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 1,
+      "version": "before",
+      "elapsed_ms": 8.335786999850825,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.340524999766785,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.329090000188444,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.275476000562776,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.31297300010192,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.335213000464137,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.310445999995864,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.324542999616824,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.302322000417917,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.262059000117006,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.308829000270634,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.331002999511838,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.326574999955483,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.330167999702098,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.310242000334256,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.257380999566521,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.30632199995307,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.329287999913504,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.33645999955479,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.334713999829546,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.328623000124935,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.255091000137327,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.305966000079934,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.40243000038754,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.340301999851363,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.336245999998937,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.310215999699722,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.30177999978332,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.263757999884547,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.322947000124259,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.324632000039855,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 10.828425999534375,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 11.333448000186763,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 11.443748000601772,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 10.51596600063931,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 9.502629000053275,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 9.473729000092135,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 10.607305000121414,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 9.685996000371233,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.470809000755253,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "before",
+      "elapsed_ms": 8.417669000664318,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.943476999163977,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.8092999997825245,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.5968520002570585,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 7.6854870003444375,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 7.32454199987842,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 13.257534000331361,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.175245999656909,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.419260999791732,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.959213000096497,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.831237000165856,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.966101999547391,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.837610000526183,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.903182999645651,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.003436000355578,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.812884000079066,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.840325000463054,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.799057999865909,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.939530000432569,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.918152000049304,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.8065370003532735,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.0040300004402525,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.802161999781674,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.936870999903476,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.8993340007873485,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.8191269999952056,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.906397000217112,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.795418999696267,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.835175999891362,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.781885000033071,
+      "prediction": 0,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.355456999699527,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.146847999843885,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.853265000041574,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.8704540006147,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.82542500069394,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 5.803373000162537,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.002079000609228,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.179054999847722,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.408546999409737,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.29223399937473,
+      "prediction": 1,
+      "vote": 0.4
+    },
+    {
+      "round": 2,
+      "version": "after",
+      "elapsed_ms": 6.103828000050271,
+      "prediction": 1,
+      "vote": 0.4
+    }
+  ],
+  "speedup_p50": 1.4331116267799207
+}

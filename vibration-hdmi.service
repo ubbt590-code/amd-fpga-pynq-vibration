@@ -1,0 +1,21 @@
+[Unit]
+Description=AX7020 vibration analysis with local HDMI display
+After=network.target pl_server.service
+Requires=pl_server.service
+StartLimitIntervalSec=60
+StartLimitBurst=3
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/home/xilinx/vibration_hdmi
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/usr/bin/python3 -u /home/xilinx/vibration_hdmi/app.py --demo dataset_test_3ch.npz --color-order BGR --gateway-port 9000 --presentation-mode
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=40
+KillSignal=SIGTERM
+
+[Install]
+WantedBy=multi-user.target

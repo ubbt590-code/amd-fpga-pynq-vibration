@@ -1,0 +1,610 @@
+[
+  {
+    "file": "97.mat",
+    "sha256": "16bf48babcf1c7ac224bc1a81cd9eafdb27e42d5cf559761907e067e8eeadf3c",
+    "selected_variables": {
+      "DE": "X097_DE_time",
+      "FE": "X097_FE_time"
+    },
+    "original_lengths": {
+      "DE": 243938,
+      "FE": 243938
+    },
+    "native_fs_hz": 48000,
+    "effective_fs_hz": 12000,
+    "processing": "resample_poly(up=1,down=4,default Kaiser window)",
+    "derived_ba": "roll(DE,512) after rate conversion",
+    "frames": 118,
+    "label": 0,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "98.mat",
+    "sha256": "37e6612c05e65c415dcfa2ab27a3fda648a5863160fa898b884a14743044e045",
+    "selected_variables": {
+      "DE": "X098_DE_time",
+      "FE": "X098_FE_time"
+    },
+    "original_lengths": {
+      "DE": 483903,
+      "FE": 483903
+    },
+    "native_fs_hz": 48000,
+    "effective_fs_hz": 12000,
+    "processing": "resample_poly(up=1,down=4,default Kaiser window)",
+    "derived_ba": "roll(DE,512) after rate conversion",
+    "frames": 235,
+    "label": 0,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "99.mat",
+    "sha256": "4b97e6b5361f45efb6951dc3b1aebcdb3b89cb69d0f96d6f5c297dd9f45eee75",
+    "selected_variables": {
+      "DE": "X099_DE_time",
+      "FE": "X099_FE_time"
+    },
+    "original_lengths": {
+      "DE": 485063,
+      "FE": 485063
+    },
+    "native_fs_hz": 48000,
+    "effective_fs_hz": 12000,
+    "processing": "resample_poly(up=1,down=4,default Kaiser window)",
+    "derived_ba": "roll(DE,512) after rate conversion",
+    "frames": 235,
+    "label": 0,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "100.mat",
+    "sha256": "88a5990cb541320e91505a1d72139e1993500ffe6e292a451011667f4138ca78",
+    "selected_variables": {
+      "DE": "X100_DE_time",
+      "FE": "X100_FE_time"
+    },
+    "original_lengths": {
+      "DE": 485643,
+      "FE": 485643
+    },
+    "native_fs_hz": 48000,
+    "effective_fs_hz": 12000,
+    "processing": "resample_poly(up=1,down=4,default Kaiser window)",
+    "derived_ba": "roll(DE,512) after rate conversion",
+    "frames": 236,
+    "label": 0,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "105.mat",
+    "sha256": "f80b0ea04fd06b372a0eaec7c056543ea37e4bb4727a5b173d2a5bacd2aa9cab",
+    "selected_variables": {
+      "DE": "X105_DE_time",
+      "FE": "X105_FE_time",
+      "BA": "X105_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121265,
+      "FE": 121265,
+      "BA": 121265
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 235,
+    "label": 1,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "106.mat",
+    "sha256": "e5cec7cdd138e6cd1deb9ed8634e5aaa9bc1bd7094ddc075bff606580eb6e883",
+    "selected_variables": {
+      "DE": "X106_DE_time",
+      "FE": "X106_FE_time",
+      "BA": "X106_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121991,
+      "FE": 121991,
+      "BA": 121991
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 1,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "107.mat",
+    "sha256": "111ba8996a115684661a13c913bd74d8029a59294492f88aec7b03e175fdd388",
+    "selected_variables": {
+      "DE": "X107_DE_time",
+      "FE": "X107_FE_time",
+      "BA": "X107_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122136,
+      "FE": 122136,
+      "BA": 122136
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 1,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "108.mat",
+    "sha256": "d415f0e65128bfa0b118c2051c988fb0dc6ce3e4c8aa45fdc5ad1d0967462e7d",
+    "selected_variables": {
+      "DE": "X108_DE_time",
+      "FE": "X108_FE_time",
+      "BA": "X108_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122917,
+      "FE": 122917,
+      "BA": 122917
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 239,
+    "label": 1,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "118.mat",
+    "sha256": "b00628f8dd8d1d930af77fa465d1e5cdb385fe259489053f91f3680bda7f640e",
+    "selected_variables": {
+      "DE": "X118_DE_time",
+      "FE": "X118_FE_time",
+      "BA": "X118_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122571,
+      "FE": 122571,
+      "BA": 122571
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 238,
+    "label": 2,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "119.mat",
+    "sha256": "bc72d9df7668219e004a0f711232b23ec0aed393eb9bd8f9f5483426f6b51330",
+    "selected_variables": {
+      "DE": "X119_DE_time",
+      "FE": "X119_FE_time",
+      "BA": "X119_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121410,
+      "FE": 121410,
+      "BA": 121410
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 2,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "120.mat",
+    "sha256": "e0b7a584c49af52335ff0904a97d4afcf02d045625c582de63a7c85ce10b489c",
+    "selected_variables": {
+      "DE": "X120_DE_time",
+      "FE": "X120_FE_time",
+      "BA": "X120_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121556,
+      "FE": 121556,
+      "BA": 121556
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 2,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "121.mat",
+    "sha256": "52f686e984ba8e9b04a047a57416271cdb322cee57ee105dce58926a24b966cb",
+    "selected_variables": {
+      "DE": "X121_DE_time",
+      "FE": "X121_FE_time",
+      "BA": "X121_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121556,
+      "FE": 121556,
+      "BA": 121556
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 2,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "130.mat",
+    "sha256": "35a095307d0971477049b343a1b5981dde465a58fb7f233ad89b035068c1717d",
+    "selected_variables": {
+      "DE": "X130_DE_time",
+      "FE": "X130_FE_time",
+      "BA": "X130_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121991,
+      "FE": 121991,
+      "BA": 121991
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 3,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "131.mat",
+    "sha256": "7883f7b83beadc54b2f301767f9145ce07055707182fb0278fdf0a6bb53ce3cb",
+    "selected_variables": {
+      "DE": "X131_DE_time",
+      "FE": "X131_FE_time",
+      "BA": "X131_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122426,
+      "FE": 122426,
+      "BA": 122426
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 238,
+    "label": 3,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "132.mat",
+    "sha256": "17a69ed5d2270b42532e678e35bbe2fa04a2cc413cf2bf9e88c7692de8662d18",
+    "selected_variables": {
+      "DE": "X132_DE_time",
+      "FE": "X132_FE_time",
+      "BA": "X132_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121410,
+      "FE": 121410,
+      "BA": 121410
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 3,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "133.mat",
+    "sha256": "53f076cb0d905cf46bffaee7736abce8224ffed777deed03c0c863d762a90c71",
+    "selected_variables": {
+      "DE": "X133_DE_time",
+      "FE": "X133_FE_time",
+      "BA": "X133_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122571,
+      "FE": 122571,
+      "BA": 122571
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 238,
+    "label": 3,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "169.mat",
+    "sha256": "f5448673725c4ea2735fe7d3fe4b16ad82b217eac6b62c4bf351c4549b0a5229",
+    "selected_variables": {
+      "DE": "X169_DE_time",
+      "FE": "X169_FE_time",
+      "BA": "X169_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 1,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "170.mat",
+    "sha256": "bcb73a5208b67265468232a2e342f53719850901671d0ee28494f3af97621f46",
+    "selected_variables": {
+      "DE": "X170_DE_time",
+      "FE": "X170_FE_time",
+      "BA": "X170_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 1,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "171.mat",
+    "sha256": "63d0fdc1a68e64610ddfaf56a9c224d6137ab7b5c0d318eea1d542b9e5ffc029",
+    "selected_variables": {
+      "DE": "X171_DE_time",
+      "FE": "X171_FE_time",
+      "BA": "X171_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 1,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "172.mat",
+    "sha256": "f75170ceef70d5da475671de0d2e52a0acd9b3883ad422b6deaf2907d888ba24",
+    "selected_variables": {
+      "DE": "X172_DE_time",
+      "FE": "X172_FE_time",
+      "BA": "X172_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121701,
+      "FE": 121701,
+      "BA": 121701
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 1,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "185.mat",
+    "sha256": "5bea2c60f177215ba3ec4ae287faf745d7e14aed1a12efe9e37b27c27044bafc",
+    "selected_variables": {
+      "DE": "X185_DE_time",
+      "FE": "X185_FE_time",
+      "BA": "X185_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 2,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "186.mat",
+    "sha256": "1b3b6f3ad38e891feaa8026fe957b34f62f9082785089cc74f6878acdfe88ec5",
+    "selected_variables": {
+      "DE": "X186_DE_time",
+      "FE": "X186_FE_time",
+      "BA": "X186_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122136,
+      "FE": 122136,
+      "BA": 122136
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 2,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "187.mat",
+    "sha256": "0f1338cce89beb5c8d8e5e154579bc576354e7c7d1617ebd1759662c6f3100b2",
+    "selected_variables": {
+      "DE": "X187_DE_time",
+      "FE": "X187_FE_time",
+      "BA": "X187_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121991,
+      "FE": 121991,
+      "BA": 121991
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 2,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "188.mat",
+    "sha256": "1981614324d653c2522bea68fd4fd87e337495b117d12596db67abd1e10e7443",
+    "selected_variables": {
+      "DE": "X188_DE_time",
+      "FE": "X188_FE_time",
+      "BA": "X188_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122136,
+      "FE": 122136,
+      "BA": 122136
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 2,
+    "load_hp": 3,
+    "split": "test"
+  },
+  {
+    "file": "197.mat",
+    "sha256": "fa571b47cd942f9514a920b403fb7c053cd442bb2963a360a96d0f61432f03e9",
+    "selected_variables": {
+      "DE": "X197_DE_time",
+      "FE": "X197_FE_time",
+      "BA": "X197_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 3,
+    "load_hp": 0,
+    "split": "train"
+  },
+  {
+    "file": "198.mat",
+    "sha256": "dbd58e4585ca8f8332c708b15936987ec0990ca701359fd2483dae2719df5b49",
+    "selected_variables": {
+      "DE": "X198_DE_time",
+      "FE": "X198_FE_time",
+      "BA": "X198_BA_time"
+    },
+    "original_lengths": {
+      "DE": 122136,
+      "FE": 122136,
+      "BA": 122136
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 3,
+    "load_hp": 1,
+    "split": "train"
+  },
+  {
+    "file": "199.mat",
+    "sha256": "ca4e6407fdb68845a6973da6028477911a62d018580063749fe956441be95cf2",
+    "selected_variables": {
+      "DE": "X199_DE_time",
+      "FE": "X199_FE_time",
+      "BA": "X199_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121846,
+      "FE": 121846,
+      "BA": 121846
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 236,
+    "label": 3,
+    "load_hp": 2,
+    "split": "train"
+  },
+  {
+    "file": "200.mat",
+    "sha256": "2526483d2701220a700df8e6c9db0c527641b0887225907f4096610dd7120f4b",
+    "selected_variables": {
+      "DE": "X200_DE_time",
+      "FE": "X200_FE_time",
+      "BA": "X200_BA_time"
+    },
+    "original_lengths": {
+      "DE": 121991,
+      "FE": 121991,
+      "BA": 121991
+    },
+    "native_fs_hz": 12000,
+    "effective_fs_hz": 12000,
+    "processing": "none",
+    "derived_ba": null,
+    "frames": 237,
+    "label": 3,
+    "load_hp": 3,
+    "split": "test"
+  }
+]

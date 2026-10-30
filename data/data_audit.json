@@ -1,0 +1,37 @@
+{
+  "audited_on": "2026-10-23",
+  "dataset_id": "cwru_resampled_20261023",
+  "normal_original_fs_hz": 48000,
+  "processed_fs_hz": 12000,
+  "normal_resampling": "scipy.signal.resample_poly(1,4)",
+  "frame_samples": 1024,
+  "hop_samples": 512,
+  "test_frames": 2132,
+  "test_groups_source_bound": 262,
+  "demo_frames": 240,
+  "demo_groups": 30,
+  "demo_all_frames_equal_test_subset": true,
+  "normal_ba": "derived by rolling resampled DE by 512 samples",
+  "imbalance": "synthetic seed 20261019",
+  "test_file_ids": [
+    100,
+    108,
+    121,
+    133,
+    172,
+    188,
+    200,
+    4003
+  ],
+  "sha256": {
+    "dataset_test_3ch.npz": "cfda75cd3f00806c94b6d0e26465c239e98ca214870cdd92758e5011e563656e",
+    "demo_set.npz": "6003886e7a055c03fef328fbadc9e8db01145f239f47a228f40a2e4170726f87",
+    "svm_model_multich.npz": "cad5745a9385329ed42e59655e469ac02629ea2b0db6a108db11e5c659c38a06"
+  },
+  "source_metadata": "raw_manifest.json",
+  "notes": [
+    "Normal BA not a measured third accelerometer.",
+    "Overlapping windows do not establish statistically independent machines.",
+    "Historic 351-group result used incorrect normal sample-rate interpretation and is superseded."
+  ]
+}

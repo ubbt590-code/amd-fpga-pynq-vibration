@@ -1,0 +1,18 @@
+{
+  "legacy_model_arrays_max_abs_error": 0.0,
+  "legacy_profile_reproduced_all_model_arrays_exactly": true,
+  "corrected_profile": "resampled",
+  "training_groups": 771,
+  "test_groups": 262,
+  "three_channel_software_correct": 261,
+  "two_channel_software_correct": 261,
+  "portable_numpy_sklearn_predictions_match": true,
+  "raw_mat_hash_checks": 28,
+  "dataset_subset_integrity": true,
+  "versions": {
+    "python": "3.10.7",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit_learn": "1.7.2"
+  }
+}

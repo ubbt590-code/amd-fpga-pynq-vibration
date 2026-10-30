@@ -1,0 +1,11 @@
+{
+  "lut_used": 14352.0,
+  "ff_used": 20764.0,
+  "bram_used": 8.0,
+  "dsp_used": 94.0,
+  "wns_ns": 0.453,
+  "whs_ns": 0.031,
+  "source": "Vivado 2024.2 placed utilization and routed timing",
+  "build": "2026-10-23 five HLS cores rebuilt from source; split Vivado processes",
+  "bitstream_sha256": "2f15e69145e198fcea4b6484b7ea23590010e93b09d1d09fc58f907fc6e2c8db"
+}

@@ -1,0 +1,32 @@
+{
+  "clean": {
+    "groups": 25,
+    "correct": 24,
+    "rejected": 0,
+    "accuracy_with_rejections_as_errors": 0.96
+  },
+  "gain2": {
+    "groups": 25,
+    "correct": 21,
+    "rejected": 3,
+    "accuracy_with_rejections_as_errors": 0.84
+  },
+  "snr0": {
+    "groups": 25,
+    "correct": 24,
+    "rejected": 0,
+    "accuracy_with_rejections_as_errors": 0.96
+  },
+  "snr10": {
+    "groups": 25,
+    "correct": 24,
+    "rejected": 0,
+    "accuracy_with_rejections_as_errors": 0.96
+  },
+  "snr20": {
+    "groups": 25,
+    "correct": 24,
+    "rejected": 0,
+    "accuracy_with_rejections_as_errors": 0.96
+  }
+}

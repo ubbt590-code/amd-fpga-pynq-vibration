@@ -1,0 +1,114 @@
+{
+  "profile": "resampled",
+  "q115_scale": 3.630425214767456,
+  "train_groups": 771,
+  "test_groups": 262,
+  "seed": 20261019,
+  "group_size": 8,
+  "frame": 1024,
+  "hop": 512,
+  "fs_hz": 12000,
+  "versions": {
+    "python": "3.10.7",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit_learn": "1.7.2"
+  },
+  "sampling_reference": "Smith and Randall 2015 DOI 10.1016/j.ymssp.2015.04.021 Appendix A Tables A1/A2",
+  "notes": [
+    "Normal BA derived; unbalance synthetic.",
+    "Load 3 held out by physical file; overlapping windows within files.",
+    "Held-out test used for evaluation only; no tuning on noise test."
+  ],
+  "three_channel": {
+    "correct": 261,
+    "groups": 262,
+    "accuracy": 0.9961832061068703,
+    "confusion": [
+      [
+        29,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        57,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        58,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        59
+      ]
+    ],
+    "support_vectors": 105,
+    "numpy_sklearn_match": true
+  },
+  "two_channel": {
+    "correct": 261,
+    "groups": 262,
+    "accuracy": 0.9961832061068703,
+    "confusion": [
+      [
+        29,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        57,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        58,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        59
+      ]
+    ],
+    "support_vectors": 82,
+    "numpy_sklearn_match": true
+  },
+  "test_frames": 2132,
+  "demo_frames": 240,
+  "demo_groups": 30
+}

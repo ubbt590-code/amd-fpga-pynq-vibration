@@ -69,7 +69,24 @@ OVO votes are classification evidence, not calibrated fault probabilities.
 
 ## License and attribution
 
-Project-authored code is provided under the MIT license in LICENSE, subject to the
-explicit exclusions and third-party attributions in THIRD_PARTY_NOTICES.md.
+Project-authored code is provided under the MIT license in license.md, subject to the
+explicit exclusions and third-party attributions in third_party_notices.md.
 AMD/Xilinx tools, generated IP, PYNQ, board vendor resources and CWRU data retain
 their respective owners' licenses; this repository does not relicense them.
+
+
+## AMD directory mapping and judging package
+
+The recommended AMD layout is mapped here to preserve the working software paths.
+
+| Recommended directory | Public tree | Additional files in the judging RAR |
+|---|---|---|
+| src/ | Root Python, hardware/hls/ | Video adapters, Vivado source and vendor resources |
+| sim/ | tests/, HLS test benches | Recording fixtures and HLS run logs |
+| build/ | hardware/README.md | hardware/build.py, Vivado Tcl, IP and implementation reports |
+| board/ | Driver, validation and qualification scripts | bit/hwh/tcl, deployment/ and board results |
+| data/ | Provenance, raw manifest, model and training scripts | Derived recordings and feature fixtures |
+| skill/ | skill/ | Same workflows, comparison script and stated validation limits |
+| report/ | docs/overview.md and numeric evidence | report/design_report.pdf, AI collaboration records, optimization and reproduction notes |
+
+The competition RAR contains the engineering package, skill package and design report together. It is more complete than this deliberately limited public distribution. Private dialogue exports and third-party assets are not published here. General PYNQ reuse beyond the tested AX7020 remains unverified.
